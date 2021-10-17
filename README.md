@@ -7,9 +7,8 @@
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡
--->
+
 <div>
-<a  href 
+<a href="https://beacons.ai/josias-moura"> 
 
 </div>
