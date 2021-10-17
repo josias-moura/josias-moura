@@ -9,6 +9,11 @@
 - 😄 Pronouns: ...
 
 <div>
-<a href="https://beacons.ai/josias-moura"> 
-
+<a href="https://github.com/josias-moura> 
+<img heigt="180em" src="https://github-readme-stats.vercel.app/api?username-josias-moura&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
 </div>
+  
+  <div>
+   <img alt="Josias-HTML" heigt="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+    <img alt="Josias-CSS" heigt="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  </div>
