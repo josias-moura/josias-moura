@@ -1,22 +1,15 @@
-### Óla, Eu sou o Josias Moura 👋
-
-
-- 🔭  Sou estudante de  tecnologia ,  analise e desenvolvimento de sistemas.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-
+## Oiii eu sou o Josias Moura, estudante de tecnologia!
 <div>
-<a href="https://github.com/josias-moura> 
-<img heigt="180em" src="https://github-readme-stats.vercel.app/api?username-josias-moura&show_icons-true&theme-dracula&include_all_commits-true&count_private-true"/>
-<img height="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
-
-</div>
+  <a href="https://github.com/josias-moura">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=josiasmoura&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <div>
-   <img alt="Josias-HTML" heigt="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-    <img alt="Josias-CSS" heigt="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  </div>
+</div>
+
+
+
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
